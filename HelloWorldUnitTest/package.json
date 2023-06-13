@@ -1,0 +1,14 @@
+{
+  "name": "helloworldunittest",
+  "version": "1.0.0",
+  "description": "1st try at making unit tests",
+  "main": "HelloWorld.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
