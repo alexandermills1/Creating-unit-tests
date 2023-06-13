@@ -6,6 +6,7 @@ making unit test using Jest
 4. npx jest
 
 test case is Jest explanation:
+    
     test: This is the Jest function used to define a test case.
     
     'description of the test case': A string describing the purpose or behavior being tested.
